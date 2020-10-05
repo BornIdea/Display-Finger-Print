@@ -33,7 +33,7 @@ You have to start an emulator using android studio or any emulator.
 </h2>
 <h2>
 Step 2 :
-Then you can start your script in a normal way.Change"HTTP-PORT" URL in ADB file sample ( "http://127.0.0.1:4723" ).
+Then you can start your script in a normal way.Change "HTTP-PORT" URL in ADB file "biometric-scenario.adb"  SAMPLE ( "http://127.0.0.1:4723" ).
 </h2>
 
 <code><h3>
